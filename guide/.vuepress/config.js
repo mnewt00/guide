@@ -3,6 +3,7 @@ const sidebar = require('./sidebar.js');
 const config = {
 	title: 'Discord.js Guide',
 	description: 'A guide made by the community of discord.js for its users.',
+	base: '/discordjs-guide/',
 	head: [
 		['meta', { charset: 'utf-8' }],
 		['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
